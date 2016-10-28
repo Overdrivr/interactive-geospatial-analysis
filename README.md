@@ -2,14 +2,17 @@
 
 A collection of Jupyter notebooks for learning geospatial analysis with Python.
 
-
-To run those scripts you will need to install the [Jupyter notebook](http://jupyter.org/) application.
-If you haven't tried it before, you won't regret it.
-
 ![preview of jupyter notebook](screenshot.png)
 
-Throughout the tutorials, several external API are used
-for handling heavy computations and resources.
+## Explore
+
+* [Compute isochrones](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/Oalley_example_sync.ipynb)
+* [Compute more isochrones](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/Oalley_example_async.ipynb)
+* [Tips and tricks for visualization](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/Oalley_example_closed_contours.ipynb)
+
+## Tools
+
+Several external APIs are called that handle heavy computations and resources.
 Without these API, it would not be possible to run those script on a regular desktop machine.
 Follow the link and request a key to use their APIs.
 
@@ -41,8 +44,9 @@ Run the following command where the file was downloaded. (Modify the filename if
 pip install Shapely-1.5.17-cp35-cp35m-win32
 ```
 
-
 ## Run it
+
+To run those scripts you will need to install the [Jupyter notebook](http://jupyter.org/) application.
 
 In the parent directory of this repository, run in a terminal the following command
 to open the local web-application.
