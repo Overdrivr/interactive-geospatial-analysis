@@ -9,7 +9,8 @@ A collection of Jupyter notebooks for learning geospatial analysis with Python.
 * [Compute isochrones](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/Oalley_example_sync.ipynb)
 * [Compute more isochrones](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/Oalley_example_async.ipynb)
 * [Tips and tricks for visualization](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/Oalley_example_closed_contours.ipynb)
-* [Is there a Vélo Toulouse (city bike rental) 5 minutes away from your home ?](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/coverage_zone_velo_toulouse.ipynb)
+* [Is there a Vélo Toulouse (city bike rental) 5 minutes nearby ?](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/coverage_zone_velo_toulouse.ipynb)
+* [Is there a Velib bike (Paris) 5 minutes nearby ?](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/coverage_zone_velo_paris.ipynb)
 
 ## Tools
 
