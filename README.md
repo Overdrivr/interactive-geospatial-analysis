@@ -9,6 +9,7 @@ A collection of Jupyter notebooks for learning geospatial analysis with Python.
 * [Compute isochrones](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/Oalley_example_sync.ipynb)
 * [Compute more isochrones](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/Oalley_example_async.ipynb)
 * [Tips and tricks for visualization](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/Oalley_example_closed_contours.ipynb)
+* [Is there a Vélo Toulouse (city bike rental) 5 minutes away from your home ?](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/coverage_zone_velo_toulouse.ipynb)
 
 ## Tools
 
@@ -20,7 +21,7 @@ External API | API type | Tarification
 -----|----------|--------------
 [`OAlley`](https://api.oalley.fr/) | isochrone / isodistance / routing | Free during beta
 [`Open Street Map`](http://tile.openstreetmap.fr/) | tile layers | Free for fair-use
-[`Google Maps`](https://developers.google.com/maps/?hl=fr) | tile layers | Free for personal use
+[`Google Maps`](https://developers.google.com/maps/?hl=fr) | tile layers | Free for personal use ?
 
 For visualization, the `folium` library, although poorly documented, is great.
 It acts as a wrapper on top of leaflet.
