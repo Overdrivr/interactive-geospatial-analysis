@@ -2,8 +2,11 @@
 
 A collection of Jupyter notebooks for learning geospatial analysis with Python.
 
+
 To run those scripts you will need to install the [Jupyter notebook](http://jupyter.org/) application.
 If you haven't tried it before, you won't regret it.
+
+![preview of jupyter notebook](screenshot.png)
 
 Throughout the tutorials, several external API are used
 for handling heavy computations and resources.
