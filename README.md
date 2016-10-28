@@ -2,7 +2,7 @@
 
 A collection of Jupyter notebooks for learning geospatial analysis with Python.
 
-![preview of jupyter notebook](screenshot.png)
+[![preview of jupyter notebook](screenshot.png)](https://nbviewer.jupyter.org/github/overdrivr/interactive-geospatial-analysis/blob/master/Oalley_example_sync.ipynb#Compute-multiple-isochrones)
 
 ## Explore
 
